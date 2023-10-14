@@ -1,0 +1,36 @@
+body{
+    background-color: rgb(179, 127, 33);
+}
+h1{
+    color:mintcream;
+}
+/* EJEMPLO CUANDO SE QUIERA IMPRIMIR */
+/* @media print {
+    body{
+        background-color: white;
+    }
+    h1{
+        color:black;
+    }
+} */
+
+/* EJEMPLO EN PANTALLA */
+/* @media screen and (max-width: 480px) {
+    body{
+        background-color: white;
+    }
+    h1{
+        color:black;
+    }
+} */
+
+/* EJEMPLO CONDICIONALES */
+/* @media screen and (min-width: 480px) and (max-width: 720px) {
+    body{
+        background-color: red;
+    }
+    h1{
+        color:black;
+    }
+} */
+/* EJEMPLO USANDO LAYOUTS */
